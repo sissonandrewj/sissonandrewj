@@ -7,4 +7,4 @@
 -  When I'm not working or learning, I love video games! My favorites right now are Helldivers 2, Rocket League, and Halo! I also like to design and 3D print things! And hangout with my friends and girlfriend!
 -->
 
-### Thanks for checking out my GitHub and May The Force Be With You!
+Thanks for checking out my GitHub and May The Force Be With You!
